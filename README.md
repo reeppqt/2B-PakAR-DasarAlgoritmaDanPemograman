@@ -32,6 +32,6 @@ Aplikasi ini dibuat menggunakan Python untuk mencatat, menampilkan, dan mengelol
 - Menampilkan laporan ringkas
 
 ## Contoh Uji Coba
-- Tambah barang: input "Pensil", stok 10, harga 2000
-- Edit barang ke-1: ubah jadi "Pulpen", stok 20, harga 2500
+- Tambah barang: input "oil filter", stok 6000, harga 25000
+- Edit barang ke-1: ubah jadi "air filter", stok 1000, harga 30000
 - Hapus barang ke-1
